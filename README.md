@@ -71,7 +71,9 @@ It is a Tkinter-enabled calculator written in Python that enables performing dif
 - Click Clear History to clear the stored history.
 
   
-  ![image](https://github.com/user-attachments/assets/66056ccc-874d-4c9c-882b-27d930e5ded7)
+
+  <img src="https://github.com/user-attachments/assets/66056ccc-874d-4c9c-882b-27d930e5ded7" width="600">
+
 
 
 ## Summary
