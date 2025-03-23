@@ -72,7 +72,8 @@ It is a Tkinter-enabled calculator written in Python that enables performing dif
 
   
 
-  <img src="https://github.com/user-attachments/assets/66056ccc-874d-4c9c-882b-27d930e5ded7" width="600">
+  <img src="https://github.com/user-attachments/assets/66056ccc-874d-4c9c-882b-27d930e5ded7" width="300"> <img src="https://github.com/user-attachments/assets/df7ddce3-e491-4221-b245-bbd5910efad9" width="300">
+
 
 
 
